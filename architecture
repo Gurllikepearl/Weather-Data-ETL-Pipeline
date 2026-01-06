@@ -1,0 +1,10 @@
+Public Weather API (Open-Meteo)
+            |
+            v
+      Python Extract
+            |
+            v
+   Data Transformation (Pandas)
+            |
+            v
+      SQLite Database
